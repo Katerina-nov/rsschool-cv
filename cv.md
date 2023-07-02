@@ -13,6 +13,20 @@
 - MS Access
 - GitHub
 ## Code Example:
+```javascript
+const getData = (url, callback) => {
+    const request = new XMLHttpRequest();
+    request.open('GET', url);
+    request.addEventListener('readystatechange', () => {
+        if (request.readyState !== 4) return;
+        if (request.status === 200) {
+            callback(request.response);
+        } else {
+            alert(request.status);
+        }
+    });
+    request.send();
+```
 ## Experience:
 - Customer engineer of LLC “Professional legal system” (2008-2010)
 -	Marketing specialist of OJSC “Medplast” (2010-2013)
