@@ -4,7 +4,7 @@
 - ### ***Location:*** *Gomel, Belarus*
 - ### ***Phone:*** *+375 29 196 85 06*
 - ### ***E-mail:*** *Katerinka.novic@gmail.com*
-- ### ***GitHub:*** *Katerina-nov*
+- ### ***GitHub:*** [*Katerina-nov*](https://github.com/settings/profile)
 - ## About me:
 *Having started my career as sales manager, I became a head of sales department and marketing in big company, which produce medical goods.  Few months ago interested in front-end development.  I am sure that my person skills (responsibility, self-discipline, hard work, communication skills, teamwork, ability to quickly learn) help me to understand new field of activities for me.*
 ## Skills:
