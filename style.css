@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Базовая разметка HTML</title>
+</head>
+
+<body>
+    <pre>
+    <div style="border: 2px solid#000;">   
+       Всё бело бело бело
+       Много снега намело
+       Вот веселые деньки
+       Все на лыжи и коньки
+    </div>
+  </pre>
+    <p style="border: 2px solid#000"><strong>Важно!!!.Стихи нужно учить наизусь!</strong></p>
+    <p><i>Кто не выучит- конфет не получит!</i></p>
+    <ul><b>Рекомедуемые авторы стихов:</b>
+        <li>Тургенев</li>
+        <li>Пушкин</li>
+        <li>Лермонтов</il>
+    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Автор</th>
+                <th>Количество стихов</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>Лермонтов</td>
+            <td>20 стихов</td>
+        </tr>
+        <tr>
+            <td>Пушкин</td>
+            <td>5 стихов</td>
+        </tr>
+        <a href="https://rustih.ru/stixi-dlya-detej/stixi-aleksandra-pushkina-dlya-detej/">Сайт стихов А.С.Пушкина.</a>
+</body>
+</html>
